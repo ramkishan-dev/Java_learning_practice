@@ -1,5 +1,6 @@
 # Java compiled files
 *.class
+*.exe
 
 # Build folders
 bin/
